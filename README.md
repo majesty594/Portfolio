@@ -20,6 +20,7 @@ HOW TO CONFIGURE
 -----------------
 
 1.Clone this repository
+
 2.Open the project directory
 
 HOW TO RUN
