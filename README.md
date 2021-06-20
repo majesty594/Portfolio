@@ -13,7 +13,7 @@ Orbit Controls
 LINK TO PRODUCT WALKTHROUGH
 ---------------------------
 
-
+https://www.loom.com/share/8f429a8b3f9643a08793a80356adce5a
 
 
 HOW TO CONFIGURE
